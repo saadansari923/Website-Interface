@@ -1,0 +1,15 @@
+.interface {
+    padding-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+.colour_theme_green {
+    color: #8DC63F;
+}
+.blue_colour {
+    color: #0D6Db7;
+}
+.explore {
+    padding: 10px 20px;
+    background-color: white;
+    border: 1px black solid;
+}
